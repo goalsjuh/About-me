@@ -1,4 +1,4 @@
-# Julia Guerra | Cybersecurity Portfolio
+# Julia Guerra Oliveira | Cybersecurity Portfolio
 
 **Cybersecurity Analyst | Security Operations | Blue Team | Cloud & Database Security**
 
